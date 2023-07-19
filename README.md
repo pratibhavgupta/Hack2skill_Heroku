@@ -24,7 +24,18 @@ With Heroku, you can focus on developing your application without worrying about
 ![5](https://github.com/pratibhavgupta/Hack2skill_Heroku/assets/110053495/7e1f0b61-7888-4bdc-9fb2-60bd185820be)
 ![6](https://github.com/pratibhavgupta/Hack2skill_Heroku/assets/110053495/c4936212-b589-4332-b1ab-2128b7294de8)
 
+💻 Tech Stack
 
+Technologies used in the project:
+
+*   Eclipse Ide 
+*   Selenium with java
+*   Some Dependencies: webdrivermanager, selenium-java, selenium-http-jdk-client, testng, rest-assured, allure-testng 
+*   Project Report on testng and allure report
+
+Thank you Hack2Skill for giving me this opportunity to showcase my skills.
+
+Special Thanks  😊
 
 
 
